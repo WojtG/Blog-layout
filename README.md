@@ -1,1 +1,1 @@
-# Blog-layout
+credits: @wesbos
